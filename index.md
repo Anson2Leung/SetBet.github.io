@@ -22,3 +22,8 @@ Vision: A visually clean ordering page for users to easily place orders with Ful
 
 ### Sign-in / -up / -out page
 - As its name implies
+
+## Current developments
+
+
+![](doc/Order-Prototype1.png)
