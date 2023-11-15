@@ -1,6 +1,7 @@
 # 314 Fire Sheep - Full Cycle Takeout
 
 ![](doc/FireSheep-FCT.png)
+[Team Contract](https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing)
 #### Members:
 
 - Anson Leung
@@ -44,8 +45,23 @@ The main page that the user will be interacting with. Users will be given a brie
 ### Confirmation Page
 Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items and the fee required as collateral to rent out the items.
 
-### Current Orders Page
-Will be accessible for users that are signed in. Will display the users current orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
+*Current planned design*
+![](doc/Confirmation-Prototype1.png)
+
+### History Page
+Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
+
+*Current planned design*
+![](doc/History-Prototype1.png)
+
+### Search Page
+After inputting an Order ID, the details of that particular order will be displayed. 
+
+*Current planned design*
+![](doc/Search-Prototype1.png)
+
+## Deployment
+[Fire Sheep: FCT](http://137.184.123.133)
 
 ## Community Feedback
 
@@ -53,5 +69,8 @@ Will be accessible for users that are signed in. Will display the users current 
 
 ## Development History
 
-### Milestone 1 - Developmental-Mockup
+### Milestones
+[M1 Milestone project page](https://github.com/orgs/314FireSheep/projects/1)
+
+[M2 Milestone project page](https://github.com/orgs/314FireSheep/projects/2)
 
