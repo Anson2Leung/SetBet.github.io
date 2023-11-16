@@ -32,7 +32,7 @@ Their mission is to reduce the waste produced by single-use containers and utens
 ## User Guide
 Descriptions of the pages a user will be able to interact with.
 
-### Sign-up/ -up/ -out page
+### Sign-up/ -in/ -out page
 Will be in a drop-down on a navigation bar. The choices will vary based on sign-in status (signed in or not).
 
 Sign up: User will input their desired username and password. If the username does not exist already, the account will be created and the user will be signed in.
