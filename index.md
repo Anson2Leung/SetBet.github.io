@@ -1,6 +1,6 @@
 # 314 Fire Sheep - Full Cycle Takeout
 
-![](doc/FireSheep-FCT.png)
+![](doc/FireSheep-FCTWhite.png)
 
 <a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Repository</a>
 
