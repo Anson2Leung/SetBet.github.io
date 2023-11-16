@@ -2,10 +2,11 @@
 
 ![](doc/FireSheep-FCT.png)
 
-[Fire Sheep GitHub Repository](https://github.com/314FireSheep/314FireSheep.github.io)
+<a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Repository</a>
 
 
-[Fire Sheep Team Contract](https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
+
 #### Members:
 
 - Anson Leung
@@ -71,7 +72,7 @@ After inputting an Order ID, the details of that particular order will be displa
 ![](doc/Search-Prototype1.png)
 
 ## Deployment
-[Fire Sheep: FCT](http://137.184.123.133)
+<a href="http://137.184.123.1331" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
 
 ## Community Feedback
 
@@ -80,7 +81,9 @@ After inputting an Order ID, the details of that particular order will be displa
 ## Development History
 
 ### Milestones
-[M1 Milestone project page](https://github.com/orgs/314FireSheep/projects/1)
 
-[M2 Milestone project page](https://github.com/orgs/314FireSheep/projects/2)
+<a href="https://github.com/orgs/314FireSheep/projects/1" target="_blank">M1 Milestone project page</a>
+
+
+<a href="https://github.com/orgs/314FireSheep/projects/2">M2 Milestone project page</a>
 
