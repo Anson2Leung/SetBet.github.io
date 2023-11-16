@@ -1,8 +1,11 @@
 # 314 Fire Sheep - Full Cycle Takeout
 
 ![](doc/FireSheep-FCT.png)
-[Github](https://github.com/314FireSheep/314FireSheep.github.io)
-[Team Contract](https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing)
+
+[Fire Sheep GitHub Repository](https://github.com/314FireSheep/314FireSheep.github.io)
+
+
+[Fire Sheep Team Contract](https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing)
 #### Members:
 
 - Anson Leung
@@ -28,7 +31,7 @@ Their mission is to reduce the waste produced by single-use containers and utens
 ## User Guide
 Descriptions of the pages a user will be able to interact with.
 
-### Sign-up/ -ip/ -out page
+### Sign-up/ -up/ -out page
 Will be in a drop-down on a navigation bar. The choices will vary based on sign-in status (signed in or not).
 
 Sign up: User will input their desired username and password. If the username does not exist already, the account will be created and the user will be signed in.
@@ -48,6 +51,12 @@ Data will be transferred from order page to give the user a brief overview of th
 
 *Current planned design*
 ![](doc/Confirmation-Prototype1.png)
+
+### Result Page
+After confirming their order the user will receive an Order ID and qr Code which can be shared to others to see the order.
+
+*Current design*
+![](doc/Result-Prototype1.png)
 
 ### History Page
 Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
