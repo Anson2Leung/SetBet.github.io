@@ -44,35 +44,38 @@ Sign out: Not a page, but will give the user a confirmation that they have logge
 ### Order Page
 The main page that the user will be interacting with. Users will be given a brief description of each item. As well as a method to modify the amount of containers they wish to rent out.
 
-*Current planned design*
+*Planned design*
 ![](doc/Order-Prototype1.png)
+
+Milestone 2
+
 
 ### Confirmation Page
 Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items and the fee required as collateral to rent out the items.
 
-*Current planned design*
+*Planned design*
 ![](doc/Confirmation-Prototype1.png)
 
 ### Result Page
 After confirming their order the user will receive an Order ID and qr Code which can be shared to others to see the order.
 
-*Current design*
+*Planned design*
 ![](doc/Result-Prototype1.png)
 
 ### History Page
 Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
 
-*Current planned design*
+*Planned design*
 ![](doc/History-Prototype1.png)
 
 ### Search Page
 After inputting an Order ID, the details of that particular order will be displayed. 
 
-*Current planned design*
+*Planned design*
 ![](doc/Search-Prototype1.png)
 
 ## Deployment
-<a href="http://137.184.123.1331" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
+<a href="https://firesheep.me/order" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
 
 ## Community Feedback
 
@@ -84,6 +87,6 @@ After inputting an Order ID, the details of that particular order will be displa
 
 <a href="https://github.com/orgs/314FireSheep/projects/1" target="_blank">M1 Milestone project page</a>
 
-
 <a href="https://github.com/orgs/314FireSheep/projects/2">M2 Milestone project page</a>
 
+<a href="https://github.com/orgs/314FireSheep/projects/3">M3 Milestone project page</a>
