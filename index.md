@@ -21,7 +21,7 @@ Full Cycle Takeout - A pilot program by the non-profit Zero Waste O’ahu (Zero 
 
 Their mission is to reduce the waste produced by single-use containers and utensils by renting out re-usable ones. Having a web application will be able to reduce the burden on both customers and the organization.
 
-This applications can be modified and applied more generally for use in UH. For their own rental or loan services.
+This applications can be modified and applied more generally for use in other places like in UH. Supporting for their own rental or loan services with different types of items.
 
 ### Tech Stack
 
