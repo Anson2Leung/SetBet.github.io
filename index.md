@@ -36,8 +36,10 @@ Descriptions of the pages a user will be able to interact with.
 Will be in a drop-down on a navigation bar. The choices will vary based on sign-in status (signed in or not).
 
 Sign up: User will input their desired username and password. If the username does not exist already, the account will be created and the user will be signed in.
+![](doc/Register-Prototype1.png)
 
 Sign in: If a user has an account they will be able to sign in using their username and password.
+![](doc/Login-Prototype1.png)
 
 Sign out: Not a page, but will give the user a confirmation that they have logged out.
 
@@ -48,7 +50,7 @@ Milestone 1 Mockup
 ![](doc/Order-Prototype1.png)
 
 Milestone 2
-![](Order-Prototype2.png)
+![](doc/Order-Prototype2.png)
 
 ### Confirmation Page
 Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items and the fee required as collateral to rent out the items.
@@ -90,12 +92,33 @@ Milestone 2
 
 ## Developer guide
 
+Step 1: [Install Meteor](https://docs.meteor.com/install.html)
+
+Step 2: Clone [our application](https://github.com/314FireSheep/FullCycleTakeout)
+
+Step 3: After opening the project cd into app directory.
+```
+$ meteor npm install
+```
+Step 4: Run the application using.
+```
+$ meteor npm run start
+```
+Go to http://localhost:3000 to see your project.
+
 ## Development History
+
+Starting the project for the Hawaii Annual Code Challenge 2023, the code was developed utilizing things outside the required tech stack for the ICS 314 project. 
+
+So using UH Bowfolios as a template, we started converting our HACC project into the required tech stack of ICS 314.
 
 ### Milestones
 
+#### Milestone 1 Mockup and HACC
 <a href="https://github.com/orgs/314FireSheep/projects/1" target="_blank">M1 Milestone project page</a>
 
+#### Milestone 2 Meteor development
 <a href="https://github.com/orgs/314FireSheep/projects/2">M2 Milestone project page</a>
 
+#### Milestone 3 Cleaning up + UI
 <a href="https://github.com/orgs/314FireSheep/projects/3">M3 Milestone project page</a>
