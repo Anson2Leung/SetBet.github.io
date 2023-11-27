@@ -4,7 +4,6 @@
 
 <a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Repository</a>
 
-
 <a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
 
 #### Members:
@@ -21,6 +20,8 @@ Vision: A visually clean ordering page for users to easily place orders with Ful
 Full Cycle Takeout - A pilot program by the non-profit Zero Waste O’ahu (Zero Waste Hawaii).
 
 Their mission is to reduce the waste produced by single-use containers and utensils by renting out re-usable ones. Having a web application will be able to reduce the burden on both customers and the organization.
+
+This applications can be modified and applied more generally for use in UH. For their own rental or loan services.
 
 ### Tech Stack
 
