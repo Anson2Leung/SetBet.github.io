@@ -44,35 +44,44 @@ Sign out: Not a page, but will give the user a confirmation that they have logge
 ### Order Page
 The main page that the user will be interacting with. Users will be given a brief description of each item. As well as a method to modify the amount of containers they wish to rent out.
 
-*Planned design*
+Milestone 1 Mockup
 ![](doc/Order-Prototype1.png)
 
 Milestone 2
-
+![](Order-Prototype2.png)
 
 ### Confirmation Page
 Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items and the fee required as collateral to rent out the items.
 
-*Planned design*
+Milestone 1
 ![](doc/Confirmation-Prototype1.png)
+
+Milestone 2
+![](doc/Confirmation-Prototype2.png)
 
 ### Result Page
 After confirming their order the user will receive an Order ID and qr Code which can be shared to others to see the order.
 
-*Planned design*
+Milestone 1
 ![](doc/Result-Prototype1.png)
+
+Milestone 2
+![](doc/Result-Prototype2.png)
 
 ### History Page
 Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
 
-*Planned design*
+Planned design
 ![](doc/History-Prototype1.png)
 
 ### Search Page
 After inputting an Order ID, the details of that particular order will be displayed. 
 
-*Planned design*
+Milestone 1
 ![](doc/Search-Prototype1.png)
+
+Milestone 2
+![](doc/Search-Prototype2.png)
 
 ## Deployment
 <a href="https://firesheep.me/order" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
