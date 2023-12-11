@@ -2,7 +2,9 @@
 
 ![](doc/FireSheep-FCTWhite.png)
 
-<a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Repository</a>
+<a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Pages Repository</a>
+
+<a href="https://github.com/314FireSheep/FullCycleTakeout" target="_blank">Fire Sheep: GitHub FullCycleTakeout Repository</a>
 
 <a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
 
