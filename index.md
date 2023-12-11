@@ -153,7 +153,7 @@ Order details will be listed like the 'Result Page,' but will have access to a '
 
 ## Deployment
 You can find our running project using the link below.
-<a href="https://firesheep.me/order" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
+<a href="https://firesheep.me/" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
 
 ## Community Feedback
 
