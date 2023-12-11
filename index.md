@@ -13,6 +13,13 @@
 - Samuel Yang
 - Joy Tan
 
+## Table of Contents
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Deployment](#deployment)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+
 ## Overview
 
 Vision: A visually clean ordering page for users to easily place orders with Full Cycle Takeout.
@@ -54,6 +61,7 @@ Milestone 1 Mockup
 Milestone 2
 
 ![](doc/Order-Prototype2.png)
+
 ***
 
 ### Confirmation Page
@@ -67,7 +75,9 @@ Milestone 1
 Milestone 2
 
 ![](doc/Confirmation-Prototype2.png)
+
 ***
+
 ### Result Page
 After confirming their order the user will receive an Order ID and qr Code which can be shared to others to see the order.
 
@@ -79,7 +89,9 @@ Milestone 1
 Milestone 2
 
 ![](doc/Result-Prototype2.png)
+
 ***
+
 ### History Page
 Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
 
@@ -97,7 +109,9 @@ Milestone 1
 Milestone 2
 
 ![](doc/Search-Prototype2.png)
+
 ***
+
 ## Deployment
 <a href="https://firesheep.me/order" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
 
