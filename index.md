@@ -4,6 +4,8 @@
 
 <a href="https://github.com/314FireSheep/314FireSheep.github.io" target="_blank">Fire Sheep: GitHub Repository</a>
 
+Project Status: [![ci-FullCycleTakeout](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml/badge.svg)](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml)
+
 <a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
 
 #### Members:
