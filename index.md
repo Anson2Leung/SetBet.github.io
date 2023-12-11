@@ -40,82 +40,118 @@ This applications can be modified and applied more generally for use in other pl
 ## User Guide
 Descriptions of the pages a user will be able to interact with.
 
+### Landing Page
+Gives a brief overview of how to use the web application. Will explain how to use the site for both normal users and admins.
+
+![](doc/Landing-Final.png)
+
 ### Sign-up/ -in/ -out page
 Will be in a drop-down on a navigation bar. The choices will vary based on sign-in status (signed in or not).
 
 Sign up: User will input their desired username and password. If the username does not exist already, the account will be created and the user will be signed in.
-![](doc/Register-Prototype1.png)
+![](doc/Register-Final.png)
 
 Sign in: If a user has an account they will be able to sign in using their username and password.
-![](doc/Login-Prototype1.png)
+![](doc/Login-Final.png)
 
-Sign out: Not a page, but will give the user a confirmation that they have logged out.
+Sign out: After pressing  the user will receive a confirmation that they are signed out.
+![](doc/Signout-Final.png)
 
 ### Order Page
 The main page that the user will be interacting with. Users will be given a brief description of each item. As well as a method to modify the amount of containers they wish to rent out.
+
+After inputting their desired quantities they will click the 'Place Order' button, which takes them to the 'Confirmation Page' 
 
 ***
 Milestone 1 Mockup
 ![](doc/Order-Prototype1.png)
 
 Milestone 2
-
 ![](doc/Order-Prototype2.png)
+
+Milestone 3
+![](doc/Order-Final.png)
 
 ***
 
 ### Confirmation Page
-Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items and the fee required as collateral to rent out the items.
+After pressing the place order button.
+Data will be transferred from order page to give the user a brief overview of their total order. Data such as total number of individual items are shown.
+
+At this stage is when the user will select their form of payment or collateral to rent their items.
 
 ***
 Milestone 1
-
 ![](doc/Confirmation-Prototype1.png)
 
 Milestone 2
-
 ![](doc/Confirmation-Prototype2.png)
+
+Milestone 3
+![](doc/Confirmation-Final.png)
 
 ***
 
 ### Result Page
-After confirming their order the user will receive an Order ID and qr Code which can be shared to others to see the order.
+After confirming their order the user will receive an Order ID and qr Code which can be shared to others to view the order.
+
+An overview of their items will also be shown.
 
 ***
 Milestone 1
-
 ![](doc/Result-Prototype1.png)
 
 Milestone 2
-
 ![](doc/Result-Prototype2.png)
+
+Milestone 3
+![](doc/Result-Final.png)
 
 ***
 
 ### History Page
-Will be accessible for users that are signed in. Will display the user's orders that have yet to be resolved (where the items have yet to be registered as returned). Users will be able to see the details of their orders.
+Will only be accessible for users that are signed in. Will display the user's previous orders, the items rented in the order, as well as their status.
 
 Planned design
 
 ![](doc/History-Prototype1.png)
 
+Milestone 3
+![](doc/History-Final.png)
+
 ### Search Page
-After inputting an Order ID, the details of that particular order will be displayed. 
+_This page is only accessible to admin accounts._ 
+
+Admins are able to see a list of orders in a similar fashion to the 'History Page'. By copying and pasting or typing the orderID into the search, they will be able to access the 'Return Page.' 
 ***
 Milestone 1
-
 ![](doc/Search-Prototype1.png)
 
 Milestone 2
-
 ![](doc/Search-Prototype2.png)
+
+Milestone 3
+![](doc/Search-Final.png)
+
+***
+
+### Return Page
+_This page is only accessible to admin accounts._
+
+Order details will be listed like the 'Result Page,' but will have access to a 'return' button. Pressing this button will change the status of the order to 'returned.' 
+
+***
+![](doc/Return-Final.png)
 
 ***
 
 ## Deployment
+You can find our running project using the link below.
 <a href="https://firesheep.me/order" target="_blank">Link to: Fire Sheep Full Cycle Takeout</a>
 
 ## Community Feedback
+
+Please fill out this [form](https://forms.gle/wmMPXkb92VHSrshFA) to send us feedback: [you can also click here.](https://forms.gle/wmMPXkb92VHSrshFA)
 
 ## Developer guide
 
