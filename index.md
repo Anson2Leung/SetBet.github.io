@@ -6,7 +6,7 @@
 
 <a href="https://github.com/314FireSheep/FullCycleTakeout" target="_blank">Fire Sheep: GitHub FullCycleTakeout Repository</a>
 
-![ci-badge](https://github.com/314FireSheep/FullCycleTakeout/actions/workflows/ci.yml)
+[![ci-FullCycleTakeout](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml/badge.svg)](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml)
 
 <a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
 
