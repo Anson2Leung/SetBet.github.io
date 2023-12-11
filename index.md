@@ -9,6 +9,8 @@
 See workflow by clicking
 [![ci-FullCycleTakeout](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml/badge.svg)](https://github.com/314firesheep/FullCycleTakeout/actions/workflows/ci.yml)
 
+(The badge may not be displaying properly)
+
 <a href="https://docs.google.com/document/d/14e3PUx9-a2lmzZ4E8buuaetMcWakf2GQPMhze3hWj8s/edit?usp=sharing" target="_blank">Fire Sheep: Team Contract</a>
 
 #### Members:
