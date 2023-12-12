@@ -161,11 +161,11 @@ Please fill out this [form](https://forms.gle/wmMPXkb92VHSrshFA) to send us feed
 
 ### General Feedback Received
 
-- The website was easy to use
-- Data cleaning to avoid excessively large or non-existent orders. More error handling.
-- Some quality issues observed
+- The website was easy to use.
+- Need data cleaning to avoid excessively large or non-existent orders. More error handling.
+- Some quality issues observed, incorrect button size, you can search for non-existent orders.
 - UX suggestions for admins, the ability to filter orders, better way to search.
-- Mixed on the utility in UH
+- Mixed on the utility in UH, would be hard to use.
 
 ## Developer guide
 
