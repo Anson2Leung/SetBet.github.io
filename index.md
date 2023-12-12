@@ -159,6 +159,14 @@ You can find our running project using the link below.
 
 Please fill out this [form](https://forms.gle/wmMPXkb92VHSrshFA) to send us feedback: [you can also click here.](https://forms.gle/wmMPXkb92VHSrshFA)
 
+### General Feedback Received
+
+- The website was easy to use
+- Data cleaning to avoid excessively large or non-existent orders. More error handling.
+- Some quality issues observed
+- UX suggestions for admins, the ability to filter orders, better way to search.
+- Mixed on the utility in UH
+
 ## Developer guide
 
 Step 1: [Install Meteor](https://docs.meteor.com/install.html)
