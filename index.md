@@ -70,12 +70,15 @@ After inputting their desired quantities they will click the 'Place Order' butto
 
 ***
 Milestone 1 Mockup
+
 ![](doc/Order-Prototype1.png)
 
 Milestone 2
+
 ![](doc/Order-Prototype2.png)
 
 Milestone 3
+
 ![](doc/Order-Final.png)
 
 ***
@@ -88,12 +91,15 @@ At this stage is when the user will select their form of payment or collateral t
 
 ***
 Milestone 1
+
 ![](doc/Confirmation-Prototype1.png)
 
 Milestone 2
+
 ![](doc/Confirmation-Prototype2.png)
 
 Milestone 3
+
 ![](doc/Confirmation-Final.png)
 
 ***
@@ -105,12 +111,15 @@ An overview of their items will also be shown.
 
 ***
 Milestone 1
+
 ![](doc/Result-Prototype1.png)
 
 Milestone 2
+
 ![](doc/Result-Prototype2.png)
 
 Milestone 3
+
 ![](doc/Result-Final.png)
 
 ***
@@ -123,6 +132,7 @@ Planned design
 ![](doc/History-Prototype1.png)
 
 Milestone 3
+
 ![](doc/History-Final.png)
 
 ### Search Page
@@ -131,12 +141,15 @@ _This page is only accessible to admin accounts._
 Admins are able to see a list of orders in a similar fashion to the 'History Page'. By copying and pasting or typing the orderID into the search, they will be able to access the 'Return Page.' 
 ***
 Milestone 1
+
 ![](doc/Search-Prototype1.png)
 
 Milestone 2
+
 ![](doc/Search-Prototype2.png)
 
 Milestone 3
+
 ![](doc/Search-Final.png)
 
 ***
