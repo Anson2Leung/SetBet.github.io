@@ -1,3 +1,9 @@
-# 314FireSheep.github.io
+# ICS 485 Video Game Design
+## Team Jace: Set Bet
 
-Welcome to Fire Sheep's home page
+#### Team Members:
+* Joseph Carmelo Averion
+* Anson Leung
+* Ciara Kang
+* Eric Zhou
+
