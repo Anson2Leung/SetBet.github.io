@@ -1,6 +1,6 @@
 # Team Jace: Set Bet
 
-![](doc/FireSheep-FCTWhite.png)
+![](doc/set_bet_image.png)
 
 
 #### Team Members:
@@ -40,13 +40,13 @@ The most basic effects for a card game are to deal damage, draw cards, and heal 
 * Damage for hand value - hand value is based on blackjack card values
 * Lifesteal - deals damage and heal
 * Lock card(s) - prevents a random card in their hand from being played next turn
-* Redraw - Discards hand and draw the same number of cards
+* Redraw - discards hand and draw the same number of cards
 * Steal card(s) - takes a random card from the opponent’s hand and add it to yours
 
 ## Next Steps
 1. Improved enemy AI that decides on what bets to play and what poker hand to make according to what bets are on the table.
 2. Remove hand size restrictions on enemies.
 3. Add cutscenes and transitions between battles.
-4. A way mechanic change to player's bets (e.g., a shop, end battle reward, etc.)
+4. Mechanic change to player's bets (e.g., a shop, end battle reward, etc.)
 5. More types of bets (like copying the enemy's bet, adding block, etc.)
 6. Preset enemies with set bets and artwork associated with them.
