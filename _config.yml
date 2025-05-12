@@ -1,7 +1,7 @@
 title: Set Bet
-description: Project page for Set Bet by Team JACE
+description: Team JACE project page for Set Bet
 google_analytics:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
