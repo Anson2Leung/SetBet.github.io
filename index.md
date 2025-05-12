@@ -50,11 +50,19 @@ For a bet effect to activate, you must fulfill its activation condition. The bas
 * Hand contains a specific rank
 * Hand contains a certain poker hand
 
-<!-- Add more details in next steps: A clear explanation of how the game will further develop -->
 ## Next Steps
-1. Improved enemy AI that decides on what bets to play and what poker hand to make according to what bets are on the table.
-2. Remove hand size restrictions on enemies.
-3. Add cutscenes and transitions between battles.
-4. Mechanic change to player's bets (e.g., a shop, end battle reward, etc.)
-5. More types of bets (like copying the enemy's bet, adding block, etc.)
-6. Preset enemies with set bets and artwork associated with them.
+1. Improved enemy AI
+    * Remove hand size restrictions on enemies.
+    * AI considers bets in decision-making.
+    * More efficient hand creation for enemy AI.
+2. Campaign mode with an end.
+    * Preset enemies with set bets and artwork associated with them.
+    * New environments and backgrounds.
+    * Bosses with a theme and custom bets.
+    * Transitions between battles.
+4. Mechanic to change player bets, considered methods:
+    * Shop system to purchase bets with currency.
+    * End of battle reward to add a bet.
+5. More types of bets
+    * Bet effects (ex: copying enemy bets, adding block)
+    * Bet conditions (ex: specific hand size, required health)
