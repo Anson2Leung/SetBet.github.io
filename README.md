@@ -8,11 +8,6 @@
 * Ciara Kang
 * Eric Zhou
 
-## Table of Contents
-* [Overview](#overview)
-* [Introduction](#game-introduction)
-* [Next Steps](#next-steps)
-
 ## Overview
 <!-- ICS 485 overview or remove section entirely  -->
 
