@@ -2,7 +2,7 @@
 
 ![](doc/set_bet_image.png)
 
-#### Team Members:
+### Team Members:
 * Joseph Carmelo Averion
 * Anson Leung
 * Ciara Kang
@@ -17,7 +17,7 @@ These effects are triggered if the appropriate conditions are met, the most basi
 
 Currently, the game features an endless set of enemies with randomized bets that scale in health with each win, so see how far you can get.
 
-## Gameplay Video (click below)
+### Gameplay Video (click below)
 [![Gameplay introduction](https://img.youtube.com/vi/cc1m0SNGGXM/0.jpg)](https://youtu.be/cc1m0SNGGXM?si=8fjELvK_GrRjr6cs)
 
 ### Battle Sequence
