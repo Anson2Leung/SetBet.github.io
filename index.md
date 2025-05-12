@@ -43,6 +43,12 @@ The most basic effects for a card game are to deal damage, draw cards, and heal 
 * Redraw - discards hand and draw the same number of cards
 * Steal card(s) - takes a random card from the opponent’s hand and add it to yours
 
+### Bet Conditions
+For a bet effect to activate, you must fulfill its activation condition. The base condition is to win with your poker hand, butit can also have other activation conditions for the effect to trigger. Other activation conditions include:
+* Hand contains a specific suit
+* Hand contains a specific rank
+* Hand contains a certain poker hand
+
 ## Next Steps
 1. Improved enemy AI that decides on what bets to play and what poker hand to make according to what bets are on the table.
 2. Remove hand size restrictions on enemies.
