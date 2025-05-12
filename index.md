@@ -19,25 +19,19 @@
 ## Game Introduction
 Set Bet is a deck-builder roguelike that takes inspiration from games like Balatro and Dicey Dungeon. The player must defeat their enemies by placing down bets that can trigger a variety of effects, like copying adjacent bets, drawing cards, and so on (aside from dealing damage). These effects are triggered if the appropriate conditions are met, the most basic one is having a stronger poker hand than the opponent. Currently, the game features an endless set of enemies with randomized bets that scale in health with each win, so see how far you can get.
 
-
 ## Gameplay
 [![Gameplay introduction](https://img.youtube.com/vi/cc1m0SNGGXM/0.jpg)](https://youtu.be/cc1m0SNGGXM?si=8fjELvK_GrRjr6cs)
 
-
 <!-- Add images/ art: Design and illustrations consistent with the game -->
-
 
 ### Battle Sequence
 The turn starts with the player and opponent drawing cards out of their deck; the enemy and the player have their own 52-card deck to draw from. They will also have a hand of bets capped at a limit of 4. The enemy will play their bets before the player does, so they can have a plan accordingly. Afterwards, the enemy will play their poker hand faced down. The player will then build their poker hand to play, where they can not swap out cards in their hand like in Poker, but unused cards will remain in their hand. The poker hands are then evaluated with the bets of the opponent and the player being evaluated, and having their effects executed. If the player or opponent is not defeated, the cycle repeats, and if the 52-card deck runs out, discarded cards are reshuffled.
 
-
 ### Randomized Enemies
 Currently, after defeating an enemy, a new enemy is generated. They will have increased health points, making them harder to defeat. A new bet deck is also generated for the enemy by randomly selecting bets out of the pool of all bets.
 
-
 ## Bets
 The backbone of the game. Aside from having a winning or losing poker hand, there are two main parts to adding depth to bets, a bet condition and its bet effect.
-
 
 ### Bet Effects
 The most basic effects for a card game are to deal damage, draw cards, and heal damage. Below is a list of effects currently in the game:
@@ -50,13 +44,11 @@ The most basic effects for a card game are to deal damage, draw cards, and heal 
 * Redraw - discards hand and draw the same number of cards
 * Steal card(s) - takes a random card from the opponent’s hand and add it to yours
 
-
 ### Bet Conditions
 For a bet effect to activate, you must fulfill its activation condition. The base condition is to win with your poker hand, butit can also have other activation conditions for the effect to trigger. Other activation conditions include:
 * Hand contains a specific suit
 * Hand contains a specific rank
 * Hand contains a certain poker hand
-
 
 <!-- Add more details in next steps: A clear explanation of how the game will further develop -->
 ## Next Steps
@@ -66,6 +58,3 @@ For a bet effect to activate, you must fulfill its activation condition. The bas
 4. Mechanic change to player's bets (e.g., a shop, end battle reward, etc.)
 5. More types of bets (like copying the enemy's bet, adding block, etc.)
 6. Preset enemies with set bets and artwork associated with them.
-
-
-
