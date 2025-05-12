@@ -8,16 +8,11 @@
 * Ciara Kang
 * Eric Zhou
 
-## Overview
-<!-- ICS 485 overview or remove section entirely  -->
-
 ## Game Introduction
 Set Bet is a deck-builder roguelike that takes inspiration from games like Balatro and Dicey Dungeon. The player must defeat their enemies by placing down bets that can trigger a variety of effects, like copying adjacent bets, drawing cards, and so on (aside from dealing damage). These effects are triggered if the appropriate conditions are met, the most basic one is having a stronger poker hand than the opponent. Currently, the game features an endless set of enemies with randomized bets that scale in health with each win, so see how far you can get.
 
 ## Gameplay
 [![Gameplay introduction](https://img.youtube.com/vi/cc1m0SNGGXM/0.jpg)](https://youtu.be/cc1m0SNGGXM?si=8fjELvK_GrRjr6cs)
-
-<!-- Add images/ art: Design and illustrations consistent with the game -->
 
 ### Battle Sequence
 The turn starts with the player and opponent drawing cards out of their deck; the enemy and the player have their own 52-card deck to draw from. They will also have a hand of bets capped at a limit of 4. The enemy will play their bets before the player does, so they can have a plan accordingly. Afterwards, the enemy will play their poker hand faced down. The player will then build their poker hand to play, where they can not swap out cards in their hand like in Poker, but unused cards will remain in their hand. The poker hands are then evaluated with the bets of the opponent and the player being evaluated, and having their effects executed. If the player or opponent is not defeated, the cycle repeats, and if the 52-card deck runs out, discarded cards are reshuffled.
